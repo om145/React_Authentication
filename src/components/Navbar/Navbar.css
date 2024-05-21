@@ -1,0 +1,23 @@
+.container{
+    height: 50px;
+    width: auto;
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    /* justify-content: end; */
+}
+
+ul{
+    /* margin-left: 800px; */
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    /* text-decoration: none; */
+    list-style-type : none
+}
+
+ul li a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 17px;
+}
